@@ -1,6 +1,9 @@
+// 使用 loader-utils 中提供的 getOptions 方法 来提取给定 loader 的 option。
+const LoaderUtils = require('loader-utils');
+
 module.exports = function (content, map, meta) {
 	// console.log(content, map, meta);
-	// console.log('=====', typeof this.query);
+	// LoaderUtils.getOptions(this.query)
 	// console.log('this.data', this.data);
 	// console.log('this', this);
 	const mySource = content.slice(0, 2);
