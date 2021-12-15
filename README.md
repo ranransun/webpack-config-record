@@ -1,1 +1,4 @@
-#### 记录webpack基本配置和一些踩坑
+#### my webpack practice
+	1.记录webpack基本配置和一些踩坑
+	2.练习webpack一些配置效果
+	3.联系loader和plugin的编写
