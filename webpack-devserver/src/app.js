@@ -1,1 +1,1 @@
-console.log('I love webpack!!!')
+console.log('This is webpack devserver index')
