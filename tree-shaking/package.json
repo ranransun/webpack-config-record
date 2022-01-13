@@ -7,6 +7,7 @@
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "sideEffects": false,
   "author": "yinian",
   "license": "ISC",
   "dependencies": {
